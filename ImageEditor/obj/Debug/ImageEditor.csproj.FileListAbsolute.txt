@@ -1,0 +1,19 @@
+C:\Users\Glako\source\repos\ImageEditor\ImageEditor\bin\Debug\ImageEditor.exe.config
+C:\Users\Glako\source\repos\ImageEditor\ImageEditor\bin\Debug\ImageEditor.exe
+C:\Users\Glako\source\repos\ImageEditor\ImageEditor\bin\Debug\ImageEditor.pdb
+C:\Users\Glako\source\repos\ImageEditor\ImageEditor\obj\Debug\ImageEditor.csprojAssemblyReference.cache
+C:\Users\Glako\source\repos\ImageEditor\ImageEditor\obj\Debug\ImageEditor.Form1.resources
+C:\Users\Glako\source\repos\ImageEditor\ImageEditor\obj\Debug\ImageEditor.Properties.Resources.resources
+C:\Users\Glako\source\repos\ImageEditor\ImageEditor\obj\Debug\ImageEditor.csproj.GenerateResource.cache
+C:\Users\Glako\source\repos\ImageEditor\ImageEditor\obj\Debug\ImageEditor.exe
+C:\Users\Glako\source\repos\ImageEditor\ImageEditor\obj\Debug\ImageEditor.pdb
+C:\Users\Glako\OneDrive\Pulpit\Grafika i komunikacja człowiek - komputer\LAB 5, 6, 7 ,8\ImageEditor\ImageEditor\bin\Debug\ImageEditor.exe.config
+C:\Users\Glako\OneDrive\Pulpit\Grafika i komunikacja człowiek - komputer\LAB 5, 6, 7 ,8\ImageEditor\ImageEditor\bin\Debug\ImageEditor.exe
+C:\Users\Glako\OneDrive\Pulpit\Grafika i komunikacja człowiek - komputer\LAB 5, 6, 7 ,8\ImageEditor\ImageEditor\bin\Debug\ImageEditor.pdb
+C:\Users\Glako\OneDrive\Pulpit\Grafika i komunikacja człowiek - komputer\LAB 5, 6, 7 ,8\ImageEditor\ImageEditor\obj\Debug\ImageEditor.csprojAssemblyReference.cache
+C:\Users\Glako\OneDrive\Pulpit\Grafika i komunikacja człowiek - komputer\LAB 5, 6, 7 ,8\ImageEditor\ImageEditor\obj\Debug\ImageEditor.Form1.resources
+C:\Users\Glako\OneDrive\Pulpit\Grafika i komunikacja człowiek - komputer\LAB 5, 6, 7 ,8\ImageEditor\ImageEditor\obj\Debug\ImageEditor.Properties.Resources.resources
+C:\Users\Glako\OneDrive\Pulpit\Grafika i komunikacja człowiek - komputer\LAB 5, 6, 7 ,8\ImageEditor\ImageEditor\obj\Debug\ImageEditor.csproj.GenerateResource.cache
+C:\Users\Glako\OneDrive\Pulpit\Grafika i komunikacja człowiek - komputer\LAB 5, 6, 7 ,8\ImageEditor\ImageEditor\obj\Debug\ImageEditor.csproj.CoreCompileInputs.cache
+C:\Users\Glako\OneDrive\Pulpit\Grafika i komunikacja człowiek - komputer\LAB 5, 6, 7 ,8\ImageEditor\ImageEditor\obj\Debug\ImageEditor.exe
+C:\Users\Glako\OneDrive\Pulpit\Grafika i komunikacja człowiek - komputer\LAB 5, 6, 7 ,8\ImageEditor\ImageEditor\obj\Debug\ImageEditor.pdb
